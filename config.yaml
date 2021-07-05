@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: "https://resampledbrain.netlify.app/"
 languageCode: en-us
 title: The Resampled Brain
 sidebarFreeText: ""
