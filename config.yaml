@@ -2,7 +2,7 @@ baseurl: /
 languageCode: en-us
 title: The Resampled Brain
 sidebarFreeText: ""
-theme: "strange-case"
+theme: "strange-case-2"
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
