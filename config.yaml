@@ -1,5 +1,4 @@
 baseurl: "https://resampledbrain.netlify.app/"
-publishDir: "docs"
 languageCode: en-us
 title: The Resampled Brain
 sidebarFreeText: ""
