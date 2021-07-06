@@ -9,7 +9,7 @@ tags: []
 
 Hello!
 
-My name is Derek Dixon, and this is probably going to be yet another blog wherein the author rambles on about their trivial learnings in data science. I am 30 years old, and in 2019 I pivoted my career to data science. Currently, I develop predictive models for large managed care insurer while also pursuing a masters in data science from St. Louis University.
+My name is Derek Dixon, and this is probably going to be yet another blog wherein the author rambles on about their trivial learnings in data science. In 2019 I pivoted my career from actuarial to general data analytics. Currently, I develop predictive models for large managed care insurer while pursuing a masters in data science from St. Louis University.
 
 My ideas about what this blog will be are only half-baked and will likely evolve over time as I post. But currently those half-baked ideas are as follows:
 
