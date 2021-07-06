@@ -28,7 +28,7 @@ params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
   description: 
-  sidebarFreeText: Musings plucked at random without replacement from beyond the foamy sponge of my brain
+  sidebarFreeText: Musings plucked at random with replacement from beyond the foamy sponge of my brain
   colorScheme: "scheme-darkbrown"
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
