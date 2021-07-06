@@ -7,16 +7,24 @@ categories: []
 tags: []
 ---
 
-This is a test post.
+This is a test post. I'll delete this after my first real post.
 
 
 ```r
-data <- c(1,2,3,4,5)
+library(tidyverse)
 
-mean(data)
+data <-
+  tibble(
+    x = rnorm(10, mean = 10, sd = 2),
+    y = rnorm(10, mean = 12, sd = 1)
+  )
+
+data %>% 
+  ggplot(aes(x = x, y = y)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  ggtitle("Test Plot!")
 ```
 
-```
-## [1] 3
-```
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
 

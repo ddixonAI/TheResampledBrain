@@ -13,8 +13,8 @@ My name is Derek Dixon, and this is probably going to be yet another blog wherei
 
 My ideas about what this blog will be are only half-baked and will likely evolve over time as I post. But currently those half-baked ideas are as follows:
 
-**(1)** Attempts to understand statistical learning at it's most most fundamental level. 
+**(1)** Attempts to master statistical learning thoroughly and fundamentally. From the abstract theoretical principles, to the practical implementations in various programming languages (R, Python, Julia, although mostly R because I love R). 
 
-**(2)** Other niche things I'm interested in: horror media (books, movies, video games), libertarianism, metal music, Competitive Gears of War
+**(2)** Other niche things I'm interested in: horror media (books, movies, video games), libertarianism, economics, bodybuilding/powerlifting/weight training, metal music, Competitive Gears of War
 
-If you find yourself in this dark crevice of the internet I hope you leave having found something that made it worth your time.
+If you stumble upon this dark crevice of the internet I hope you leave having found something that made it worth your time.
