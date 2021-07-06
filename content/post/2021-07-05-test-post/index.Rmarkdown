@@ -1,0 +1,19 @@
+---
+title: Test Post
+author: ''
+date: '2021-07-05'
+slug: test-post
+categories: []
+tags: []
+---
+
+This is a test post.
+
+```{r}
+
+data <- c(1,2,3,4,5)
+
+mean(data)
+
+```
+
