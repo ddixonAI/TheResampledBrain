@@ -51,6 +51,8 @@ data %>%
        subtitle = "Y = (x+2)**2")
 
 ```
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
+
 
 This true relationship is unknown to us but we stipulate that it "exists" (if perhaps only in the abstract). We can only observe the data at hand, a set of pairs of (y, x) representing historical examples which will include error (epsilon). If we have enough of these pairs we could have more than one value of Y for each value of X. Let's superimpose the "actual" data over the unknown relationship line, the true f.
 
@@ -63,6 +65,7 @@ data %>%
   labs(title = "Data Sample")
 
 ```
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
 
 Because we have so much data (10,000 examples here), it's easy to see how that line fits nicely in the spread of points. This also illustrates the idea that more data is better than less data in the cases where there is an informative relationship between X and Y. 
 
@@ -111,6 +114,9 @@ data %>%
 
 
 ```
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-4-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-4-2.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-4-3.png" width="672" />
 
 The histogram and rain cloud clearly show the distribution of Y at X = 5 and that E(Y|X=5) = 49, approximately. The variability of Y at X=5 is a result of the irreducible error mentioned earlier. Even if we estimated f perfectly from the data, future predictions would still fail to be exact because Y varies for each value of X and our predicted values of E(Y|X=x) likely won't exactly equal Y in any particular instance. But the regression function, E(Y|X=x), would give us the best predictions on average, in the long run.
 
