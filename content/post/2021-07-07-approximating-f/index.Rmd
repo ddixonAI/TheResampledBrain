@@ -1,7 +1,7 @@
 ---
 title: Estimating f
 author: 'Derek Dixon'
-date: '2021-07-07'
+date: '2021-07-24'
 slug: approximating-f
 categories:
   - statistical learning
